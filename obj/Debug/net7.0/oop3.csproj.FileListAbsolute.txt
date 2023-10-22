@@ -1,0 +1,14 @@
+C:\Users\thien\source\repos\oop3\bin\Debug\net7.0\oop3.exe
+C:\Users\thien\source\repos\oop3\bin\Debug\net7.0\oop3.deps.json
+C:\Users\thien\source\repos\oop3\bin\Debug\net7.0\oop3.runtimeconfig.json
+C:\Users\thien\source\repos\oop3\bin\Debug\net7.0\oop3.dll
+C:\Users\thien\source\repos\oop3\bin\Debug\net7.0\oop3.pdb
+C:\Users\thien\source\repos\oop3\obj\Debug\net7.0\oop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thien\source\repos\oop3\obj\Debug\net7.0\oop3.AssemblyInfoInputs.cache
+C:\Users\thien\source\repos\oop3\obj\Debug\net7.0\oop3.AssemblyInfo.cs
+C:\Users\thien\source\repos\oop3\obj\Debug\net7.0\oop3.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\oop3\obj\Debug\net7.0\oop3.dll
+C:\Users\thien\source\repos\oop3\obj\Debug\net7.0\refint\oop3.dll
+C:\Users\thien\source\repos\oop3\obj\Debug\net7.0\oop3.pdb
+C:\Users\thien\source\repos\oop3\obj\Debug\net7.0\oop3.genruntimeconfig.cache
+C:\Users\thien\source\repos\oop3\obj\Debug\net7.0\ref\oop3.dll
